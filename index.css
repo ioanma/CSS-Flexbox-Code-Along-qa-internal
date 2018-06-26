@@ -39,3 +39,7 @@ footer {
   margin: 5px;
   background-color: pink;
 }
+.setWidth {
+  flex-basis: 100px;
+  flex-grow: 1;
+}
