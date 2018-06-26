@@ -34,7 +34,7 @@ footer {
 }
 
 .item {
-  flex-basis: 100px;
+  width: 100px;
   height: 100px;
   margin: 5px;
   background-color: pink;
