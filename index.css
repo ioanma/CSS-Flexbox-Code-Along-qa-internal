@@ -38,4 +38,5 @@ footer {
   height: 100px;
   margin: 5px;
   background-color: pink;
+  flex-basis: 100px;
 }
